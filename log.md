@@ -14,7 +14,7 @@
 
 **Today's Progress**: Continuation with the CatPhotoApp
 
-**Thoughts**: Learned a little bit of web forms | 
+**Thoughts**: Learned a little bit of web forms, and submit button | Radio buttons, check-boxes
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
