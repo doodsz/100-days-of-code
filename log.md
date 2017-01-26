@@ -14,7 +14,7 @@
 
 **Today's Progress**: Continuation with the CatPhotoApp
 
-**Thoughts**: --
+**Thoughts**: Learned a little bit of web forms | 
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
