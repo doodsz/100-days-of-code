@@ -21,7 +21,7 @@
 
 ### Day 3: Jan 27, 
 
-**Today's Progress**: Margins and padding | class override "!important;" | a little bit of responsive bootstrap
+**Today's Progress**: Margins and padding | class override "!important;" | a little bit of responsive bootstrap 
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
